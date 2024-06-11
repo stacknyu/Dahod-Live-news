@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.usernotifications.service</string>
+		<key>NSExtensionPrincipalClass</key>
+		<string>$(PRODUCT_MODULE_NAME).NotificationService</string>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>News Blog app requires access to microphone when user want to voice search.</string>
+        <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+        <string>News Blog app requires location permission to fetch realtime weather update to user.</string>
+	</dict>
+
+</dict>
+</plist>
