@@ -1,7 +1,7 @@
 name: news_flutter
 description: A new Flutter application
 
-version: 6.8.0
+version: 19.8.0+9
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

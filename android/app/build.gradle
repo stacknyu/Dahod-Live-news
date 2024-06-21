@@ -30,8 +30,8 @@ android {
         applicationId "com.stacknyu.dahod_live"
         minSdkVersion 25
         targetSdkVersion 34
-        versionCode 54
-        versionName "6.9.0"
+        versionCode 55
+        versionName "12.4.0"
     }
 
     signingConfigs {
